@@ -133,7 +133,7 @@ class Sentence():
 
 class MinesweeperAI():
     """
-    Minesweeper game player
+    Minesweeper AI player
     """
 
     def __init__(self, height=8, width=8):
